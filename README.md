@@ -18,7 +18,16 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+# 初期化
+atcoder-gardener init
+
+# 設定ファイルの編集
+atcoder-gardener edit
+
+# 提出物のアーカイブ
+atcoder-gardener archive
+```
 
 ## Development
 
